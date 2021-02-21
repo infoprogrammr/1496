@@ -10,3 +10,5 @@ sum=0
  
 # Display the sum
 print(sum)
+a=1
+b=2
